@@ -1,0 +1,3 @@
+Pix2Pix generated image dataset: https://drive.google.com/open?id=1zdMs5F6YK4Wh6iCeHJDmC_s70Gc60CAv
+StyleGAN generated image dataset: https://drive.google.com/open?id=1ghccrXxyotvEqM-tk9tQjrEPzls_pKm4
+BreaKHis: https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
